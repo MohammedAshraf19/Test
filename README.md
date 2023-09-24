@@ -5,6 +5,12 @@
     • Show a lot of films kind, trailer, details about film and similar films.
     • Search for any films.
 ##
+
+
+
+
+![On Boarding_4](https://github.com/MohammedAshraf19/Test/assets/92050638/048ff872-9909-4242-a562-ee3264d71d11)
+
 ![Splash](https://github.com/MohammedAshraf19/Test/assets/92050638/1e7a5dde-f877-4047-9a57-d22c1c65b59f)
 
 ![On Boarding_1](https://github.com/MohammedAshraf19/Test/assets/92050638/cf4d11fe-14a5-4d7b-b064-8e3e480fa059)
