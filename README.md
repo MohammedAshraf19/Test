@@ -5,6 +5,8 @@
     • Show a lot of films kind, trailer, details about film and similar films.
     • Search for any films.
 ##
+![Chang Profile(3)](https://github.com/MohammedAshraf19/Test/assets/92050638/079da272-376e-46b7-a254-d694125de49c)
+
 ![Chang Profile(2)](https://github.com/MohammedAshraf19/Test/assets/92050638/9cbc9dee-828d-4ffc-b94e-429f127a3d42)
 
 ![Chang Profile(1)](https://github.com/MohammedAshraf19/Test/assets/92050638/5f7b2e27-cc88-4546-9129-089f468a7b78)
